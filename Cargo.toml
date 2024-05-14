@@ -1,0 +1,9 @@
+[package]
+name = "khinsider-index-rs"
+description = ""
+authors = ["Liliesh <liliesh at proton dot me>"]
+license = "GNU General Public License v3.0"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
